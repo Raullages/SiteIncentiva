@@ -1,0 +1,195 @@
+
+.portifolio  #img01 h4, #img01 p{
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	visibility: visible;
+	text-align: center; 
+	color: #fff;
+	padding: 20px;
+	font-family: 'Comfortaa', sans-serif;
+}
+
+.portifolio #img01{
+	overflow: hidden;
+	/*width: 100%;*/
+	min-height: 100px;
+	padding: 5px;
+	background-attachment: ;
+	background-image: url("../img/img01.jpg");
+	background-size: cover;
+	 margin-top: 10px;
+}
+
+.portifolio #img01:hover{
+	cursor: pointer;
+	box-shadow: 0px 4px 7px black;
+	z-index: 1;
+	background-image: url("../img/img01-1.jpg");
+	height: 250px;
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	transform: scale(1.1);
+}
+.portifolio #img01:hover h4, #img01:hover p{
+	display: none;
+}
+
+
+.portifolio #img02 h4, #img02 p{
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	visibility: visible;
+	text-align: center; 
+	color: #fff;
+	/*/font-size: 
+	padding: 20px;*/
+	font-family: 'Comfortaa', sans-serif;
+
+}
+.portifolio #img02{
+	margin-top: 10px;
+	/*width: 100%;*/
+	min-height: 100px;
+	padding: 5px;
+	background-image: url("../img/img02-2.jpg");
+	background-size: cover;
+	margin-top: 10px;
+}
+.portifolio #img02:hover{
+	cursor: pointer;
+	box-shadow: 0px 4px 7px black;
+	z-index: 1;
+	background-image: url("../img/img02.jpg");
+	height: 250px;
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	transform: scale(1.1);
+}
+.portifolio #img02:hover h4, #img02:hover p{
+	display: none;
+}
+/*Imagem03*/
+.portifolio #img03 h4, #img03 p{
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	visibility: visible;
+	text-align: center; 
+	color: #fff;
+	padding: 20px;
+	font-family: 'Comfortaa', sans-serif;
+
+}
+.portifolio #img03{
+	margin-top: 10px;
+
+	min-height: 100px;
+	padding: 5px;
+	background-image: url("../img/img02-2.jpg");
+	background-size: cover;
+	margin-top: 10px; 
+}
+.portifolio #img03:hover{
+	border-radius: 10px;
+	cursor: pointer;
+	box-shadow: 0px 4px 7px black;
+	z-index: 1;
+	background-image: url("../img/img02.jpg");
+	height: 250px;
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	transform: scale(1.1);
+}
+.portifolio #img03:hover h4, #img03:hover p{
+	display: none;
+}
+
+/*Imagem04*/
+.portifolio #img04 h4, #img04 p{
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	visibility: visible;
+	text-align: center; 
+	color: #fff;
+	padding: 20px;
+	font-family: 'Comfortaa', sans-serif;
+
+}
+.portifolio #img04{
+	margin-top: 10px;
+	/*width: 100%;*/
+	min-height: 100px;
+	padding: 5px;
+	background-image: url("../img/img02-2.jpg");
+	background-size: cover;
+	 margin-top: 10px;
+}
+.portifolio #img04:hover{
+	cursor: pointer;
+	box-shadow: 0px 4px 7px black;
+	z-index: 1;
+	background-image: url("../img/img02.jpg");
+	height: 250px;
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	transform: scale(1.1);
+}
+.portifolio #img04:hover h4, #img04:hover p{
+	display: none;
+	
+}
+/*Imagem05*/
+.portifolio #img05 h4, #img05 p{
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	text-align: center; 
+	color: #fff;
+	padding: 20px;
+	font-family: 'Comfortaa', sans-serif;
+
+}
+.portifolio #img05{
+	margin-top: 10px;
+	/*width: 100%;*/
+	min-height: 100px;
+	padding: 5px;
+	background-image: url("../img/img02-2.jpg");
+	background-size: cover;
+	 margin-top: 10px;
+}
+.portifolio #img05:hover{
+	
+	cursor: pointer;
+	box-shadow: 0px 4px 7px black;
+	z-index: 1;
+	background-image: url("../img/img02.jpg");
+	height: 250px;
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	transform: scale(1.1);
+}
+.portifolio #img05:hover h4, #img05:hover p{
+	display: none;
+}
+
+/*Imagem06*/
+.portifolio #img06 h4, #img06 p{
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	visibility: visible;
+	text-align: center; 
+	color: #fff;
+	padding: 20px;
+	font-family: 'Comfortaa', sans-serif;
+
+}
+.portifolio #img06{
+	margin-top: 10px;
+	/*width: 100%;*/
+	min-height: 100px;
+	padding: 5px;
+	background-image: url("../img/img02-2.jpg");
+	background-size: cover;
+	 
+}
+.portifolio #img06:hover{
+	
+	cursor: pointer;
+	box-shadow: 0px 4px 7px black;
+	z-index: 1;
+	background-image: url("../img/img02.jpg");
+	height: 250px;
+	transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+	transform: scale(1.1);
+}
+.portifolio #img06:hover h4, #img06:hover p{
+	display: none;
+}
